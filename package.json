@@ -1,0 +1,8 @@
+{
+    "name": "iloading",
+    "title": "iloading",
+    "version": "0.0.2",
+    "description": "loading css",
+    "main": "src/",
+    "license": "MIT"
+}
